@@ -1,4 +1,5 @@
 ## Sejam bem-vindos ao meu perfil no GitHub!
+
 ![](https://media1.tenor.com/m/6CHontNt1mIAAAAC/otterpaka-jujutsu-kaisen.gif)
 
 Eu sou o JAllef854, um entusiasta de tecnologia e aluno do [Alura](https://www.alura.com.br). Aqui no GitHub, vocês podem encontrar diversos projetos em que estou trabalhando, desde simples scripts até aplicações mais complexas.
